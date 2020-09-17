@@ -1,4 +1,4 @@
-# Face-Detectcon-and-Recognition-by-haarCascade-and-Machine-Learning
+# Face-Detection-and-Recognition-by-haarCascade-and-Machine-Learning
 ### Libraries Used
 #### OpenCV
 #### pickle
